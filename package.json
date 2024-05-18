@@ -3,7 +3,7 @@
   "displayName": "VagaBond Dark",
   "description": "My first dark theme as all the explored themes  I found was boring!! T_T",
   "publisher": "SatyumSinghPathania",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.89.0"
   },
