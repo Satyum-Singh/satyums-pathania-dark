@@ -1,0 +1,21 @@
+{
+  "name": "satyums-pathania-dark",
+  "displayName": "SatyumS Pathania Dark",
+  "description": "My first dark theme as all the explored themes  I found was boring!! T_T",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SatyumS Pathania Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SatyumS Pathania Dark-color-theme.json"
+      }
+    ]
+  }
+}
