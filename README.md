@@ -9,10 +9,13 @@ Introducing the VagaBond VS Code theme, your ultimate coding escape! 🌿 We've 
 ### 1. Aesthetics that will blow your mind! 💫
 
 Picture this: Surrounding yourself with a modern and elegant color palette that transforms your dull VS Code interface into a canvas where every line of code becomes an artistic masterpiece. 🖌️
+![MarketPlace](marketplace.png)
+
 
 ### 2. Coding with a chill vibe 😌
 
 Unlike those harsh themes that leave your eyes screaming in pain, VagaBond fosters a peaceful coding experience. The carefully balanced violets and blues are like a gentle breeze for your eyes, reducing eye strain and allowing you to code for hours on end without feeling fatigued. ‍♀️
+![Web Development](webdev.png)
 
 ### 3. Embrace the dark side (of coding) with confidence! 🌌
 
@@ -21,6 +24,7 @@ Indulge in the sophistication of a dark theme, perfect for those late-night codi
 ### 4. Focus like a laser beam! 🔍
 
 VagaBond prioritizes clarity with high-contrast elements that make your code crystal clear. Say goodbye to squinting at poorly highlighted syntax – with VagaBond, your focus will be sharper than ever, leading to increased productivity and smoother coding sessions.
+!
 
 ## Who can benefit from the VagaBond theme's serene behavior?
 

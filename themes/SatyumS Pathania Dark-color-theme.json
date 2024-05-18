@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#10002B", 
 		"editor.foreground": "#aed2ff",
-		"activityBarBadge.background": "#9733ee",
+		"activityBarBadge.background": "#510e8b",
 		"sideBarTitle.foreground": "#865dff",
         "activityBar.background": "#1F1C2C",
         "activityBar.foreground": "#9733ee",
@@ -15,7 +15,7 @@
     	"titleBar.activeForeground":"#e0aaff",
 		"tab.activeBackground": "#4a0d67",
         "tab.inactiveBackground": "#5a189a",
-		"editorGroupHeader.tabsBackground": "#8332ac",
+		"editorGroupHeader.tabsBackground": "#28004c",
     	"notificationCenterHeader.foreground": "#E0AAFF",
     	"notificationCenterHeader.background": "#3c096c",
     	"notifications.foreground": "#E0AAFF",
@@ -30,7 +30,9 @@
 		"input.background": "#5a189a",    // Set the background color of the search bar
     	"input.foreground": "#fff"  ,
 		"input.placeholderForeground": "#fff",
-		"editorHoverWidget.background": "#431259"  
+		"editorHoverWidget.background": "#431259" , 
+		"dropdown.background": "#28004c",             // Set the background color of the dropdown
+    	"dropdown.foreground": "#9733ee",
 	},
 	"tokenColors": [
 		{
