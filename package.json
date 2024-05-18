@@ -1,9 +1,10 @@
 {
   "name": "satyums-pathania-dark",
   "displayName": "VagaBond Dark",
-  "description": "My first dark theme as all the explored themes  I found was boring!! T_T",
+  "description": "My first dark theme as all the explored themes I found was boring!!! T_T",
   "publisher": "SatyumSinghPathania",
   "version": "0.2.0",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -37,7 +38,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "SatyumS Pathania Dark",
+        "label": "by SatyumS Pathania",
         "uiTheme": "vs-dark",
         "path": "./themes/SatyumS Pathania Dark-color-theme.json"
       }

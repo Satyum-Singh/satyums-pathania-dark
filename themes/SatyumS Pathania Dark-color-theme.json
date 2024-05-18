@@ -21,6 +21,16 @@
     	"notifications.foreground": "#E0AAFF",
     	"notifications.background": "#3c096c",
     	"notificationLink.foreground": "#59ff7d",
+		"statusBar.background" : "#08a045",
+		"list.hoverBackground": "#4a0d67",
+    	"list.activeSelectionBackground": "#3c096c",
+    	"list.activeSelectionForeground": "#aed2ff",
+		"button.background": "#08a045",  // Set the background color of the button
+    	"button.foreground": "#fff" ,
+		"input.background": "#5a189a",    // Set the background color of the search bar
+    	"input.foreground": "#fff"  ,
+		"input.placeholderForeground": "#fff",
+		"editorHoverWidget.background": "#431259"  
 	},
 	"tokenColors": [
 		{
